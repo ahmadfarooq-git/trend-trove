@@ -51,18 +51,16 @@
 <br>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #050505 0%, #111111 100%); border: 1px solid #1a1a1a; border-radius: 12px; padding: 10px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);">
-        
-        <video src="https://github.com/user-attachments/assets/374a08ce-9cd4-4a47-81ee-ce9dc3e8501b" autoplay loop muted playsinline width="100%" style="border-radius: 6px; border: 1px solid #222222; display: block;"></video>
-
-      </td>
-    </tr>
-  </table>
-  <p align="center" style="font-size: 12px; color: #666666; font-family: 'Inter', sans-serif; margin-top: 14px; letter-spacing: 1px;">
-    <i>🌌 LIVE FLAGSHIP APPLICATIONS WORKSPACE — Interactive streaming portal interface.</i>
-  </p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #050505 0%, #111111 100%); border: 1px solid #1a1a1a; border-radius: 12px; padding: 10px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);">
+<video src="https://github.com/user-attachments/assets/374a08ce-9cd4-4a47-81ee-ce9dc3e8501b" autoplay loop muted playsinline width="100%" style="border-radius: 6px; border: 1px solid #222222; display: block;"></video>
+</td>
+</tr>
+</table>
+<p align="center" style="font-size: 12px; color: #666666; font-family: 'Inter', sans-serif; margin-top: 14px; letter-spacing: 1px;">
+<i>🌌 LIVE FLAGSHIP APPLICATIONS WORKSPACE — Interactive streaming portal interface.</i>
+</p>
 </div>
 
 <div style="height: 1px; width: 100%; background: linear-gradient(90deg, rgba(198,255,52,0) 0%, rgba(198,255,52,0.4) 50%, rgba(198,255,52,0) 100%); margin: 45px 0;"></div>
