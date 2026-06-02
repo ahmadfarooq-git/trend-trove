@@ -54,14 +54,16 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td align="center" style="background: linear-gradient(135deg, #050505 0%, #111111 100%); border: 1px solid #1a1a1a; border-radius: 12px; padding: 10px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);">
-        <a href="https://trend-trove.pages.dev" target="_blank">
-          <img src="./homepage.png" alt="Trend Trove Main Showcase Frame" width="100%" style="border-radius: 6px; border: 1px solid #222222; display: block;" />
-        </a>
+        <video width="100%" autoplay loop muted playsinline style="border-radius: 6px; border: 1px solid #222222; display: block; width: 100%; height: auto;">
+          <source src="./homepage.mp4" type="video/mp4">
+          <source src="./homepage.mov" type="video/quicktime">
+          Your browser does not support the video tag.
+        </video>
       </td>
     </tr>
   </table>
   <p align="center" style="font-size: 12px; color: #666666; font-family: 'Inter', sans-serif; margin-top: 14px; letter-spacing: 1px;">
-    <i>🌌 LIVE FLAGSHIP APPLICATIONS WORKSPACE — Context click frame to jump into deployment.</i>
+    <i>🌌 LIVE FLAGSHIP APPLICATIONS WORKSPACE — Interactive streaming portal interface.</i>
   </p>
 </div>
 
