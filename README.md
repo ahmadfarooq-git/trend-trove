@@ -54,11 +54,9 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td align="center" style="background: linear-gradient(135deg, #050505 0%, #111111 100%); border: 1px solid #1a1a1a; border-radius: 12px; padding: 10px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);">
-        <video width="100%" autoplay loop muted playsinline style="border-radius: 6px; border: 1px solid #222222; display: block; width: 100%; height: auto;">
-          <source src="./homepage.mp4" type="video/mp4">
-          <source src="./homepage.mov" type="video/quicktime">
-          Your browser does not support the video tag.
-        </video>
+        
+        <video src="https://github.com/user-attachments/assets/374a08ce-9cd4-4a47-81ee-ce9dc3e8501b" autoplay loop muted playsinline width="100%" style="border-radius: 6px; border: 1px solid #222222; display: block;"></video>
+
       </td>
     </tr>
   </table>
